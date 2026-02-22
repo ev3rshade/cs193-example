@@ -1,2 +1,2 @@
 # cs193-example
-This is a README file
+This repository is for screenshot purposes
